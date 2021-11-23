@@ -1,4 +1,4 @@
-# <p align="center"><a href="http://tostudy.io"><img alt="tostudy" src="./logo/large.png" height="280px" left="50%" right="50%"></a></p>
+# <p align="center"><a href="http://tostudy.io"><img alt="tostudy" src="https://raw.githubusercontent.com/tostudyio/.github/main/profile/logo/large.png" height="280px" left="50%" right="50%"></a></p>
 
 <!--
 
